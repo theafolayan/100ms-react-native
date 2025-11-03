@@ -6,21 +6,21 @@ A React Native app which has the fully featured 100ms app UI along with the Core
 
 ### Minimum Configuration
 
-- React Native 0.73.0 or above
+- React Native 0.81.5 or above
 - Java 17 or above
 - Android API level 24 or above
-- Xcode 14 or above
+- Xcode 15.4 or above
 - iOS 16 or above
-- Node.js 22 or above
+- Node.js 18 or above
 
 ### Recommended Configuration
 
-- React Native 0.77.3 or above
+- React Native 0.81.5 or above
 - Java 17 or above
 - Android API level 35 or above
-- Xcode 15 or above
+- Xcode 15.4 or above
 - iOS 16 or above
-- Node.js 22 or above
+- Node.js 20 or above
 
 ## Setup
 

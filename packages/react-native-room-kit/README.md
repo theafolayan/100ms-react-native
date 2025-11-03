@@ -37,21 +37,21 @@ To get a better understanding of how the example app is structured, what to do o
 
 ## ☝️ Minimum Configuration
 
-- Support for React Native 0.73.0 or above
+- Support for React Native 0.81.5 or above
 - Support for Java 17 or above
 - Support for Android API level 24 or above
-- Xcode 14 or above
+- Xcode 15.4 or above
 - Support for iOS 16 or above
-- Node.js 22 or above
+- Node.js 18 or above
 
 ## 🤝 Recommended Configuration
 
-- React Native 0.77.3 or above
+- React Native 0.81.5 or above
 - Java 17 or above
 - Android API level 35 or above
-- Xcode 15 or above
+- Xcode 15.4 or above
 - iOS 16 or above
-- Node.js 22 or above
+- Node.js 20 or above
 
 ## 📱 Supported Devices
 
@@ -141,7 +141,7 @@ Once you have the prerequisites, follow the steps below to create a React Native
    ​
 
 ```bash section=CreateRnApp
-npx react-native init PrebuiltSampleApp --version 0.77.3 --npm && cd ./PrebuiltSampleApp
+npx react-native init PrebuiltSampleApp --version 0.81.5 --npm && cd ./PrebuiltSampleApp
 ```
 
 3. Once the app is created, open it in VS code.
