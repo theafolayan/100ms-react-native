@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "android": "NODE_OPTIONS=--openssl-legacy-provider react-native run-android",
-    "ios": "NODE_OPTIONS=--openssl-legacy-provider react-native run-ios --device \"100ms iPhone XR\"",
-    "start": "NODE_OPTIONS=--openssl-legacy-provider react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios --device \"100ms iPhone XR\"",
+    "start": "react-native start",
     "test": "jest",
     "lint": "eslint ."
   },

@@ -8,22 +8,22 @@ To add video calling feature into your own Expo app, You can refer [Expo & Prebu
 
 ### Minimum Configuration
 
-- React Native 0.73.0 or above
+- React Native 0.81.5 or above
 - Java 17 or above
 - Android API level 24 or above
-- Xcode 14 or above
+- Xcode 15.4 or above
 - iOS 16 or above
-- Node.js 22 or above
+- Node.js 18 or above
 - Expo SDK 50 or above
 
 ### Recommended Configuration
 
-- React Native 0.77.3 or above
+- React Native 0.81.5 or above
 - Java 17 or above
 - Android API level 35 or above
-- Xcode 15 or above
+- Xcode 15.4 or above
 - iOS 16 or above
-- Node.js 22 or above
+- Node.js 20 or above
 
 ## Build Locally
 
